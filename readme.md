@@ -53,3 +53,15 @@ My name is Qianpeng Li, a master in Institute of Automation, Chinese Academy of 
   - Checkpoint, rollback and recovery are used for error correction, collective trace update and delayed post learning
 - **NeuroEngine: A Hardware-Based Event-Driven Simulation System for Advanced Brain-Inspired Computing**
   - The neuron voltage calculation is divided into three-stage pipeline, and the event scheduling is carried out by using bitmap and FIFO. Whether to update the neuron voltage is predicted according to the input weighted pulse value.
+
+### Single Core or Multi-Core
+- **Spiking Neural Network Integrated Circuits: A Review of Trends and Future Directions**
+  - When the synapse of single nucleus exceeds 10K, simulated nucleus should be used
+  - Single core design
+    - Network topology: crossbarm, locally competitive algorithm, multi layer.However, these network topologies cannot be reconfigured
+    - Storage architecture: in memory computing, RRAM, standard SRAM
+    - Learning algorithm: STDP, SDSP, top-down gradient based approach
+  - Multi core design
+    - Design principles: scalability, tradeoff between flexibility and reliability, programmability and compatibility
+    - Implementation platform: analog computing or digital computing
+    - Performance comparison: appropriate benchmark is required
