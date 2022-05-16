@@ -65,3 +65,8 @@ My name is Qianpeng Li, a master in Institute of Automation, Chinese Academy of 
     - Design principles: scalability, tradeoff between flexibility and reliability, programmability and compatibility
     - Implementation platform: analog computing or digital computing
     - Performance comparison: appropriate benchmark is required
+
+### Encoding model
+- **Deep Spiking Neural Network: Energy Efficiency Through Time based Coding**
+  - A coding method called time switch coding (TSC) is designed
+  - Compared with TTFS, TSC has fewer synaptic operations to reduce energy
