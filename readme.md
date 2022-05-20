@@ -82,3 +82,14 @@ My name is Qianpeng Li, a master in Institute of Automation, Chinese Academy of 
 
   - **SoftSNN: Low-Cost Fault Tolerance for Spiking Neural Network Accelerators under Soft Errors(gotten)**
 
+- **MICRO2022-0701**
+  - Revised paper on July 1
+  
+- **ISCA2022-0622**
+  - The meeting ended on June 22
+
+- **ICCAD2022-0721**
+  -  July 21 NOTIFICATION OF ACCEPTANCE
+
+- **VLSI2022-0617**
+  - The meeting ended on June 17
