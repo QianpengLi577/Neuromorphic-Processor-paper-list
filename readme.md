@@ -6,6 +6,7 @@ My name is Qianpeng Li, a master in Institute of Automation, Chinese Academy of 
  - [Time Driven](#time-driven)
  - [Event Driven](#event-driven)
  - [Interesting Methods](#interesting-methods)
+ - [The meeting was not held](#the-meeting-was-not-held)
 
 ## Time Driven
 
@@ -70,3 +71,14 @@ My name is Qianpeng Li, a master in Institute of Automation, Chinese Academy of 
 - **Deep Spiking Neural Network: Energy Efficiency Through Time based Coding**
   - A coding method called time switch coding (TSC) is designed
   - Compared with TTFS, TSC has fewer synaptic operations to reduce energy
+
+## The meeting was not held
+- **DAC2022**
+  - **Unicorn: A Multicore Neuromorphic Processor with Flexible Fan-In and Unconstrained Fan-Out for Neurons**
+
+  - **SATO: Spiking Neural Network Acceleration via Temporal-Oriented Dataflow and Architecture**
+
+  - **A Time-to-first-spike Coding and Conversion Aware Training for Energy-Efficient Deep Spiking Neural Network Processor Design**
+
+  - **SoftSNN: Low-Cost Fault Tolerance for Spiking Neural Network Accelerators under Soft Errors(gotten)**
+
