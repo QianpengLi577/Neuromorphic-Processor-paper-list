@@ -79,6 +79,10 @@ My name is Qianpeng Li, a master in Institute of Automation, Chinese Academy of 
   - **SATO: Spiking Neural Network Acceleration via Temporal-Oriented Dataflow and Architecture**
 
   - **A Time-to-first-spike Coding and Conversion Aware Training for Energy-Efficient Deep Spiking Neural Network Processor Design**
+    - This article uses two operations to mitigate soft error
+    - First: when the weight mutation exceeds max, it is modified to the number of advance payments
+    - The second: when the neuron cannot reset, it will output 0 through spike signal
+
 
   - **SoftSNN: Low-Cost Fault Tolerance for Spiking Neural Network Accelerators under Soft Errors(gotten)**
 
