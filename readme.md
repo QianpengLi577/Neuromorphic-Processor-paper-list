@@ -78,6 +78,14 @@ My name is Qianpeng Li, a master in Institute of Automation, Chinese Academy of 
   -  Fixed per layer propagation delays are used
   -  S2N2 supports LIF neuron model based on FINN
 
+### Low power
+- **A 0.086-mm2 12.7-pJ/SOP 64k-Synapse 256-Neuron Online-Learning Digital Spiking Neuromorphic Processor in 28-nm CMOS**
+  - Synaptic model, supporting SDSP
+  - The neuron model supports LIF and 20 this izh model
+  - Scheduling scheme to convert burst into monopulse
+  - It supports 256 neurons and 64K synapses
+
+
 ## The meeting was not held
 - **DAC2022**
   - **Unicorn: A Multicore Neuromorphic Processor with Flexible Fan-In and Unconstrained Fan-Out for Neurons**
