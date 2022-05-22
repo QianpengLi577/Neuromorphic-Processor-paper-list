@@ -72,6 +72,12 @@ My name is Qianpeng Li, a master in Institute of Automation, Chinese Academy of 
   - A coding method called time switch coding (TSC) is designed
   - Compared with TTFS, TSC has fewer synaptic operations to reduce energy
 
+### Event code representation
+- **S2N2: A FPGA Accelerator for Streaming Spiking Neural Networks**
+  -  The author uses binary tensor to reduce memory utilization
+  -  Fixed per layer propagation delays are used
+  -  S2N2 supports LIF neuron model based on FINN
+
 ## The meeting was not held
 - **DAC2022**
   - **Unicorn: A Multicore Neuromorphic Processor with Flexible Fan-In and Unconstrained Fan-Out for Neurons**
