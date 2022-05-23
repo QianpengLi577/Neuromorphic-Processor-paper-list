@@ -33,6 +33,29 @@ My name is Qianpeng Li, a master in Institute of Automation, Chinese Academy of 
 - **Optimized Compression for Implementing Convolutional Neural Networks on FPGA**
   - Two pruning methods, reverse pruning and peak pruning, are proposed to prune the sparse matrix. In terms of weight storage, convolution kernel sparse matrix storage adopts non-zero value + row index + column index, with a total of 16bit (considering that 11 * 11 is enough for ordinary people). For the fully connected layer sparse matrix, the interval between non-zero value and non-zero value is 16bit in total for storage. If the interval exceeds 2 ^ 8, supplement 0
 
+### Sparse representation / index
+- **Cambricon-X: An Accelerator for Sparse Neural Networks**
+  - Direct index and distributed index are realized
+
+- **Other methods**
+  - Direct index: 1 bit mark whether there is connection √
+  
+  - Step by step index: mark the distance from the previous non-zero weight √
+ 
+  - CCO: given row and column addresses, convolution may be friendly
+  
+  - CSR: how many rows (incremental) and columns are stored, and decoding may be troublesome
+  
+  - CSC: similar to CSR, rows and columns are interchangeable
+  
+  - ELLPACK: two peer matrices, one for storing columns and one for storing data
+  
+  - List of lists: multiple linked lists. The linked list is saved by row. One row includes non-zero values and corresponding columns
+  
+  - Diagonal storage: a matrix with the same number of columns. Store diagonal elements from the lower left corner and record the offset of the diagonal
+  
+  - RLC: contains the current data and the number of data repetitions
+
 ### Calculation Method
 - **Speeding-up neuromorphic computation for neural networks: Structure optimization approach**
   - Through the calculation scheme of dendrites and axons, the problem that one layer must be calculated completely before the next layer can be calculated in the forward calculation of layers is prevented.
