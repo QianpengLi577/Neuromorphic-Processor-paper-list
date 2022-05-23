@@ -37,6 +37,9 @@ My name is Qianpeng Li, a master in Institute of Automation, Chinese Academy of 
 - **Cambricon-X: An Accelerator for Sparse Neural Networks**
   - Direct index and distributed index are realized
 
+- **SMASH: Co-designing Software Compression and Hardware-Accelerated Indexing for Efficient Sparse Matrix Operations**
+  - Hierarchical bitmap is proposed 
+
 - **Other methods**
   - Direct index: 1 bit mark whether there is connection √
   
