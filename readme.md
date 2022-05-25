@@ -133,7 +133,7 @@ My name is Qianpeng Li, a master in Institute of Automation, Chinese Academy of 
   - The meeting ended on June 22
 
 - **ICCAD2022-0721**
-  -  July 21 NOTIFICATION OF ACCEPTANCE
+  -  July 21 notification of acceptance
 
 - **VLSI2022-0617**
   - The meeting ended on June 17
