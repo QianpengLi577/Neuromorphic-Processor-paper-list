@@ -111,6 +111,11 @@ My name is Qianpeng Li, a master in Institute of Automation, Chinese Academy of 
   - Scheduling scheme to convert burst into monopulse
   - It supports 256 neurons and 64K synapses
 
+### Event scheduling
+- **NeuroEngine: A Hardware-Based Event-Driven Simulation System for Advanced Brain-Inspired Computing**
+  - The neuron voltage calculation is divided into three-stage pipeline, and events are scheduled using bitmap and FIFO. Whether to update the neuron voltage is predicted according to the input weighted pulse value.
+- **Hardware Implementation of Spiking Neural Networks on FPGA**
+  - Multiple event queues are used, and each queue represents all events after n time
 
 ## The meeting was not held
 - **DAC2022**
