@@ -135,10 +135,10 @@ My name is Qianpeng Li, a master in Institute of Automation, Chinese Academy of 
 
 - **DAC2022**
 
-  - **Unicorn: A Multicore Neuromorphic Processor with Flexible Fan-In and Unconstrained Fan-Out for Neurons**
+  - **Unicorn: A Multicore Neuromorphic Processor with Flexible Fan-In and Unconstrained Fan-Out for Neurons	Date: 2022.07.14    Time: 11:15-11:37**
   - **SATO: Spiking Neural Network Acceleration via Temporal-Oriented Dataflow and Architecture**
-  - **A Time-to-first-spike Coding and Conversion Aware Training for Energy-Efficient Deep Spiking Neural Network Processor Design**
-  - **SoftSNN: Low-Cost Fault Tolerance for Spiking Neural Network Accelerators under Soft Errors(gotten)**
+  - **A Time-to-first-spike Coding and Conversion Aware Training for Energy-Efficient Deep Spiking Neural Network Processor Design		Date: 2022.07.12    Time: 16:14-16:42**
+  - **SoftSNN: Low-Cost Fault Tolerance for Spiking Neural Network Accelerators under Soft Errors(gotten)		Date：2022.07.12   Time: 13:52 -14:15**
 
     - This article uses two operations to mitigate soft error
     - First: when the weight mutation exceeds max, it is modified to the number of advance payments
