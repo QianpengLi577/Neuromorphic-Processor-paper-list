@@ -54,15 +54,16 @@ My name is Qianpeng Li, a master in Institute of Automation, Chinese Academy of 
   - Hierarchical bitmap is proposed
 - **Other methods**
 
-  - Direct index: 1 bit mark whether there is connection √
-  - Step by step index: mark the distance from the previous non-zero weight √
-  - CCO: given row and column addresses, convolution may be friendly
-  - CSR: how many rows (incremental) and columns are stored, and decoding may be troublesome
-  - CSC: similar to CSR, rows and columns are interchangeable
+  - **Direct index**: 1 bit mark whether there is connection √
+  - **Step by step index**: mark the distance from the previous non-zero weight √
+  - **CCO/COO**: given row and column addresses, convolution may be friendly
+  - **CSR**: how many rows (incremental) and columns are stored, and decoding may be troublesome
+  - **CSC**: similar to CSR, rows and columns are interchangeable
   - ELLPACK: two peer matrices, one for storing columns and one for storing data
   - List of lists: multiple linked lists. The linked list is saved by row. One row includes non-zero values and corresponding columns
   - Diagonal storage: a matrix with the same number of columns. Store diagonal elements from the lower left corner and record the offset of the diagonal
   - RLC: contains the current data and the number of data repetitions
+  - highlight is most popular
 
 ### Calculation Method
 
