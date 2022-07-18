@@ -141,6 +141,8 @@ My name is Qianpeng Li, a master in Institute of Automation, Chinese Academy of 
     - SATO using Sparsity of activation and process the input of all time steps in parallel
     - using Bucket-Sort Based Dispatcher to tradeoff the workload of PE
   - **A Time-to-first-spike Coding and Conversion Aware Training for Energy-Efficient Deep Spiking Neural Network Processor Design		Date: 2022.07.12    Time: 16:14-16:42**
+    - A ANN to SNN transformation method called cat is designed
+    - A new TTFS coding rule is designed (I don't quite understand this method)
   - **SoftSNN: Low-Cost Fault Tolerance for Spiking Neural Network Accelerators under Soft Errors(gotten)		Date：2022.07.12   Time: 13:52 -14:15**
 
     - This article uses two operations to mitigate soft error
