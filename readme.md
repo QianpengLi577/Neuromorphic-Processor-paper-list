@@ -137,6 +137,8 @@ My name is Qianpeng Li, a master in Institute of Automation, Chinese Academy of 
 - **DAC2022**
 
   - **Unicorn: A Multicore Neuromorphic Processor with Flexible Fan-In and Unconstrained Fan-Out for Neurons	Date: 2022.07.14    Time: 11:15-11:37**
+    - for flexible fan-in, combine mult NUs(neuron units) to generate a bigger fan-in neuron
+    - for unconstrained fan-out, find TRT(target routing table) to any core/neuron you want 
   - **SATO: Spiking Neural Network Acceleration via Temporal-Oriented Dataflow and Architecture**
     - SATO using Sparsity of activation and process the input of all time steps in parallel
     - using Bucket-Sort Based Dispatcher to tradeoff the workload of PE
