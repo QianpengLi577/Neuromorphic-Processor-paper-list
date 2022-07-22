@@ -5,6 +5,7 @@ My name is Qianpeng Li, a master in Institute of Automation, Chinese Academy of 
 ## Table of Contents
 
 - [Time Driven](#time-driven)
+- [Great design](#great-design)
 - [Event Driven](#event-driven)
 - [Interesting Methods](#interesting-methods)
 - [The meeting was not held](#the-meeting-was-not-held)
@@ -13,6 +14,9 @@ My name is Qianpeng Li, a master in Institute of Automation, Chinese Academy of 
 ## Time Driven
 
 - **to be update soon**
+
+## Great design
+I will share some wonderful design such as TrueNorth, Loihi, Darwin and soon on
 
 ## Event Driven
 
@@ -44,6 +48,9 @@ My name is Qianpeng Li, a master in Institute of Automation, Chinese Academy of 
   - Mask vectors are generated through some base templates to represent the sparse connections of neural networks
 - **Optimized Compression for Implementing Convolutional Neural Networks on FPGA**
   - Two pruning methods, reverse pruning and peak pruning, are proposed to prune the sparse matrix. In terms of weight storage, convolution kernel sparse matrix storage adopts non-zero value + row index + column index, with a total of 16bit (considering that 11 * 11 is enough for ordinary people). For the fully connected layer sparse matrix, the interval between non-zero value and non-zero value is 16bit in total for storage. If the interval exceeds 2 ^ 8, supplement 0
+- **A_Neuromorphic_Processing_System_With_Spike-Driven_SNN_Processor_for_Wearable_ECG_Classification**
+  - Hierarchical Memory Access
+  - G-STBP, Improved STBP for liquid pool
 
 ### Sparse representation / index
 
