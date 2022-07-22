@@ -53,6 +53,9 @@ My name is Qianpeng Li, a master in Institute of Automation, Chinese Academy of 
 - **SMASH: Co-designing Software Compression and Hardware-Accelerated Indexing for Efficient Sparse Matrix Operations**
 
   - Hierarchical bitmap is proposed
+- **SparTANN: Sparse Training Accelerator for Neural Networks with Threshold-based Sparsification**
+  - Threshold method is used to control sparsity
+  - CSR sparse representation is used
 - **Other methods**
 
   - **Direct index**: 1 bit mark whether there is connection √
@@ -174,3 +177,6 @@ My name is Qianpeng Li, a master in Institute of Automation, Chinese Academy of 
 
 - **面向深度神经网络的数据流架构软硬件协同优化研究**
   - A FD-CSR sparse representation method suitable for fine-grained data flow is proposed, and the column coordinates are represented by bitmap. This is mainly to adapt to the author's hardware architecture and to realize storage alignment
+
+- **面向达尔文II类脑计算芯片的仿真训练平台**
+  - The fan out relationship, weight and delay of the source neuron are recorded in the form of a linked list. The delay management unit of Darwin I is used. The route adopts the relative origin, and the dynamic virtual connection reduces the number of packets to a certain extent
