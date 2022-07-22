@@ -8,6 +8,7 @@ My name is Qianpeng Li, a master in Institute of Automation, Chinese Academy of 
 - [Event Driven](#event-driven)
 - [Interesting Methods](#interesting-methods)
 - [The meeting was not held](#the-meeting-was-not-held)
+- [学位论文](#学位论文)
 
 ## Time Driven
 
@@ -164,3 +165,12 @@ My name is Qianpeng Li, a master in Institute of Automation, Chinese Academy of 
 
   - The meeting ended on June 17
   - **dont have interesting papers for me**
+
+
+## 学位论文
+
+- **面向稀疏神经网络的片上系统设计与实现**
+  - The author proposes a sparse weight representation method of dynamic ell. The author changes the column coordinates in the sparse representation of ell to step index
+
+- **面向深度神经网络的数据流架构软硬件协同优化研究**
+  - A FD-CSR sparse representation method suitable for fine-grained data flow is proposed, and the column coordinates are represented by bitmap. This is mainly to adapt to the author's hardware architecture and to realize storage alignment
