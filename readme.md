@@ -156,6 +156,7 @@ I will share some wonderful design such as TrueNorth, Loihi, Darwin and soon on
   - **A Time-to-first-spike Coding and Conversion Aware Training for Energy-Efficient Deep Spiking Neural Network Processor Design		Date: 2022.07.12    Time: 16:14-16:42**
     - A ANN to SNN transformation method called cat is designed
     - A new TTFS coding rule is designed (I don't quite understand this method)
+    - I think this method fully using the time information in SNN
   - **SoftSNN: Low-Cost Fault Tolerance for Spiking Neural Network Accelerators under Soft Errors(gotten)		Date：2022.07.12   Time: 13:52 -14:15**
 
     - This article uses two operations to mitigate soft error
