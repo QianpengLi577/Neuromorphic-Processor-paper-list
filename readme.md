@@ -17,6 +17,17 @@ My name is Qianpeng Li, a master in Institute of Automation, Chinese Academy of 
 
 ## Great design
 I will share some wonderful design such as TrueNorth, Loihi, Darwin and soon on
+- **Loihi: A Neuromorphic Manycore Processor with On-Chip Learning(Loihi)**
+- **Darwin: A neuromorphic hardware co-processor based on spiking neural networks(Darwin)**
+- **Cambricon-X: An Accelerator for Sparse Neural Networks(Cambricon-X)**
+- **Towards artificial general intelligence with hybrid Tianjic chip architecture(TianJiC)**
+- **TrueNorth: Design and Tool Flow of a 65 mW 1 Million Neuron Programmable Neurosynaptic Chip(TrueNorth)**
+- **FINN: A Framework for Fast, Scalable Binarized Neural Network Inference(FINN)**
+- **MorphIC: A 65-nm 738k-Synapse/mm2 Quad-Core Binary-Weight Digital Neuromorphic Processor With Stochastic Spike-Driven Online Learning(MorphIC)**
+- **A 0.086-mm2 12.7-pJ/SOP 64k-Synapse 256-Neuron Online-Learning Digital Spiking Neuromorphic Processor in 28-nm CMOS(ODIN)**
+- **ReckOn: A 28nm Sub-mm2 Task-Agnostic Spiking Recurrent Neural Network Processor Enabling On-Chip Learning over Second-Long Timescales(Reckon)**
+- **NeuroSync: A Scalable and Accurate Brain Simulator Using Safe and Efficient Speculation(NeuroSync)**
+- **NeuroEngine: A Hardware-Based Event-Driven Simulation System for Advanced Brain-Inspired Computing(NeuroEngine)**
 
 ## Event Driven
 
