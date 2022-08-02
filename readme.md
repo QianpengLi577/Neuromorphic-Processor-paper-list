@@ -154,6 +154,10 @@ I will share some wonderful design such as TrueNorth, Loihi, Darwin and soon on
 - **Hardware Implementation of Spiking Neural Networks on FPGA**
   - Multiple event queues are used, and each queue represents all events after n time
 
+### Hard to classify
+
+- **SpinalFlow: An Architecture and Dataflow Tailored for Spiking Neural Networks**
+
 ## The meeting was not held
 
 - **DAC2022**
