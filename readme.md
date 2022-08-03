@@ -63,6 +63,11 @@ I will share some wonderful design such as TrueNorth, Loihi, Darwin and soon on
   - Hierarchical Memory Access
   - G-STBP, Improved STBP for liquid pool
 
+### Date reuse
+- **Eyeriss: A Spatial Architecture for Energy-Efficient Dataflow for Convolutional Neural Networks**
+  - PE Processing 1-D convolution
+  - Convolution weights propagate horizontally, and ifmap data propagates diagonally
+
 ### Sparse representation / index
 
 - **Cambricon-X: An Accelerator for Sparse Neural Networks**
