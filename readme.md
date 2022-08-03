@@ -79,6 +79,11 @@ I will share some wonderful design such as TrueNorth, Loihi, Darwin and soon on
 - **SparTANN: Sparse Training Accelerator for Neural Networks with Threshold-based Sparsification**
   - Threshold method is used to control sparsity
   - CSR sparse representation is used
+
+- **Eyeriss v2: A Flexible Accelerator for Emerging Deep Neural Networks on Mobile Devices**
+  - CSC representation is used
+  - proposed hierarchical mesh network(HM-NOC)
+
 - **Other methods**
 
   - **Direct index**: 1 bit mark whether there is connection √
