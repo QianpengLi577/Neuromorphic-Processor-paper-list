@@ -84,6 +84,9 @@ I will share some wonderful design such as TrueNorth, Loihi, Darwin and soon on
   - CSC representation is used
   - proposed hierarchical mesh network(HM-NOC)
 
+- **DIMMining: Pruning-Efficient and Parallel Graph Mining on Near-Memory-Computing**
+  - propose (bitmap compress sparsity row )BCSR method
+
 - **Other methods**
 
   - **Direct index**: 1 bit mark whether there is connection √
