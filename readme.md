@@ -167,6 +167,15 @@ I will share some wonderful design such as TrueNorth, Loihi, Darwin and soon on
 - **Hardware Implementation of Spiking Neural Networks on FPGA**
   - Multiple event queues are used, and each queue represents all events after n time
 
+### Learning rule implementation
+
+- **Bio-plausible digital implementation of a reward modulated STDP synapse**
+  - reward STDP learning rule implementation
+- **FlexLearn: Fast and Highly Efficient Brain Simulations Using Flexible On-Chip Learning**
+  - Three types of synaptic learning rules were summarized and refined into 17 sub rules
+  - The hardware implementation of learning rules is given
+  - Summarizes the implementation of various traces
+
 ### Hard to classify
 
 - **SpinalFlow: An Architecture and Dataflow Tailored for Spiking Neural Networks**
