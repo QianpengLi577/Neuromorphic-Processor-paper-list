@@ -175,6 +175,8 @@ I will share some wonderful design such as TrueNorth, Loihi, Darwin and soon on
   - Three types of synaptic learning rules were summarized and refined into 17 sub rules
   - The hardware implementation of learning rules is given
   - Summarizes the implementation of various traces
+- **Neuromodulated Synaptic Plasticity on the SpiNNaker Neuromorphic**
+  - two factor and triple factor STDP algorithm
 
 ### Hard to classify
 
