@@ -171,6 +171,7 @@ I will share some wonderful design such as TrueNorth, Loihi, Darwin and soon on
 
 - **Bio-plausible digital implementation of a reward modulated STDP synapse**
   - reward STDP learning rule implementation
+  - The code provided by the author has some problems
 - **FlexLearn: Fast and Highly Efficient Brain Simulations Using Flexible On-Chip Learning**
   - Three types of synaptic learning rules were summarized and refined into 17 sub rules
   - The hardware implementation of learning rules is given
