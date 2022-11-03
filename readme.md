@@ -1,6 +1,6 @@
 # Neuromorphic-Processor-paper-list
 
-My name is Qianpeng Li, a master in Institute of Automation, Chinese Academy of Sciences. I am interesting in Neuromorphic Processor, spiking neural network accelerator and machine learning. In this repository I will share with you some useful, interesting and magic papers.
+My name is Qianpeng Li, a master in Institute of Automation, Chinese Academy of Sciences. I am interesting in Neuromorphic Processor, spiking neural network accelerator and machine learning. In this repository I will share with you some useful, interesting and magic papers.I mainly share articles about neural chip, but also involve some DNN, CNN, Transformer and sparse neural network accelerators
 
 ## Table of Contents
 
@@ -208,23 +208,28 @@ I will share some wonderful design such as TrueNorth, Loihi, Darwin and soon on
     - This article uses two operations to mitigate soft error
     - First: when the weight mutation exceeds max, it is modified to the number of advance payments
     - The second: when the neuron cannot reset, it will output 0 through spike signal
-- **MICRO2022-0701**
 
-  - Revised paper on July 1
-- **ISCA2022-0622**
+- **MICRO2022**
+  - **Ristretto: An Atomized Processing Architecture for Sparsity-Condensed Stream Flow in CNN**
+    - Essentially, it is the distributive law of multiplication
+    - By taking 2bit as a basic unit, the so-called atom, we can remove all zero atoms and construct 1d multiplication
+    - For 2d convolution, expand it into 1d, and retain the location information, channel, and last atom for correct calculation.
+    - Focus on high-level value sparsity and low-level bit sparsity
+  - **Sparseloop: An Analytical Approach To Sparse Tensor Accelerator Modeling**
+  - **Skipper: Enabling efficient SNN training through activation-checkpointing and time-skipping**
+  - **Sparse Attention Acceleration with Synergistic In-Memory Pruning and On-Chip Recomputation**
 
-  - The meeting ended on June 22
+- **ISCA2022**
+
+
   - **dont have interesting papers for me**
   
-- **ICCAD2022-0721**
+- **ICCAD2022**
+  
+  - **Sparse-T: Hardware accelerator thread for unstructured sparse data processing**
 
-  - July 21 notification of acceptance
-  - **Ristretto: An Atomized Processing Architecture for Sparsity-Condensed Stream Flow in CNN**
-  - **Skipper: Enabling Efficient SNN Training Through Activation-Checkpointing and Time-Skipping**
+- **VLSI2022**
 
-- **VLSI2022-0617**
-
-  - The meeting ended on June 17
   - **dont have interesting papers for me**
 
 
