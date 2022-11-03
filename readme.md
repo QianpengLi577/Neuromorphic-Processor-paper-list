@@ -178,6 +178,12 @@ I will share some wonderful design such as TrueNorth, Loihi, Darwin and soon on
   - Summarizes the implementation of various traces
 - **Neuromodulated Synaptic Plasticity on the SpiNNaker Neuromorphic**
   - two factor and triple factor STDP algorithm
+- **Spike-based local synaptic plasticity: A survey of computational models and neuromorphic circuits**
+  - It describes various STDP like algorithms and analog circuit implementations
+
+### Computing In Memory
+
+- **A compute-in-memory chip based on resistive random-access memory**
 
 ### Hard to classify
 
@@ -209,9 +215,13 @@ I will share some wonderful design such as TrueNorth, Loihi, Darwin and soon on
 
   - The meeting ended on June 22
   - **dont have interesting papers for me**
+  
 - **ICCAD2022-0721**
 
   - July 21 notification of acceptance
+  - **Ristretto: An Atomized Processing Architecture for Sparsity-Condensed Stream Flow in CNN**
+  - **Skipper: Enabling Efficient SNN Training Through Activation-Checkpointing and Time-Skipping**
+
 - **VLSI2022-0617**
 
   - The meeting ended on June 17
