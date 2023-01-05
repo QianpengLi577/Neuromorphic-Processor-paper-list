@@ -232,6 +232,13 @@ I will share some wonderful design such as TrueNorth, Loihi, Darwin and soon on
 
   - **dont have interesting papers for me**
 
+- **HPCA2023**
+
+  - **Securator: A Fast and Secure Neural Processing Unit**
+
+- **FPGA2023**
+
+  - **dont have interesting papers for me**
 
 ## 学位论文
 
