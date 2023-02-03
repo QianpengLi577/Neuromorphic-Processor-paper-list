@@ -240,6 +240,14 @@ I will share some wonderful design such as TrueNorth, Loihi, Darwin and soon on
 
   - **dont have interesting papers for me**
 
+- **ISSCC2023**
+
+  - **ANP-I: A 28nm 1.5pJ/SOP Asynchronous Spiking Neural Network Processor Enabling  Sub-0.1μJ/Sample On-Chip Learning for Edge-AI Applications**
+
+  - **A 8.09TOPS/W Neural Engine Leveraging Bit-Sparsified Sign-Magnitude  Multiplications and Dual Adder Trees**
+
+
+
 ## 学位论文
 
 - **面向稀疏神经网络的片上系统设计与实现**
