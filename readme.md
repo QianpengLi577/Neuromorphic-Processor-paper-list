@@ -246,7 +246,11 @@ I will share some wonderful design such as TrueNorth, Loihi, Darwin and soon on
 
   - **A 8.09TOPS/W Neural Engine Leveraging Bit-Sparsified Sign-Magnitude  Multiplications and Dual Adder Trees**
 
+- **ASPLOS2023**
 
+  - **Flexagon: A Multi-Dataflow Sparse-Sparse Matrix Multiplication Accelerator for Efficient DNN Processing**
+
+  - **SPADA: Accelerating Sparse Matrix Multiplication with Adaptive Dataflow**
 
 ## 学位论文
 
