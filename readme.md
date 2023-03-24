@@ -252,6 +252,9 @@ I will share some wonderful design such as TrueNorth, Loihi, Darwin and soon on
 
   - **SPADA: Accelerating Sparse Matrix Multiplication with Adaptive Dataflow**
 
+  - **Mapping Very Large Scale Spiking Neuron Network to Neuromorphic Hardware**
+
+
 ## 学位论文
 
 - **面向稀疏神经网络的片上系统设计与实现**
