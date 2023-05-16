@@ -270,6 +270,16 @@ I will share some wonderful design such as TrueNorth, Loihi, Darwin and soon on
 
   - **EXPLOITING KERNEL COMPRESSION ON BNNS**
 
+- **DAC2023**
+
+  - **Neurogenesis Dynamics-inspired Spiking Neural Network Training Acceleration**
+
+  - **A Convolution Neural Network Accelerator Design with Weight Mapping and Pipeline Optimization**
+
+  - **AdaS: A Fast and Energy-Efficient CNN Accelerator Exploiting Bit-Sparsity**
+
+  - **ANAS: Asynchronous Neuromorphic Hardware Architecture Search Based on System-Level Simulator**
+
 ## 学位论文
 
 - **面向稀疏神经网络的片上系统设计与实现**
