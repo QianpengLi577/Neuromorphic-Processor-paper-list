@@ -280,6 +280,8 @@ I will share some wonderful design such as TrueNorth, Loihi, Darwin and soon on
 
   - **ANAS: Asynchronous Neuromorphic Hardware Architecture Search Based on System-Level Simulator**
 
+  - **TCSNN: Time-Conditional Spiking Neural Networks for Efficient In-Memory Computing**
+
 ## 学位论文
 
 - **面向稀疏神经网络的片上系统设计与实现**
