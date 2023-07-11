@@ -282,6 +282,10 @@ I will share some wonderful design such as TrueNorth, Loihi, Darwin and soon on
 
   - **TCSNN: Time-Conditional Spiking Neural Networks for Efficient In-Memory Computing**
 
+  - **COSA: Co-Operative Systolic Arrays for Multi-head Attention Mechanism in Neural Network using Hybrid Data Reuse and Fusion Methodologies**
+
+  - **HexaMesh: Scaling to Hundreds of Chiplets with an Optimized Chiplet Arrangement**
+
 ## 学位论文
 
 - **面向稀疏神经网络的片上系统设计与实现**
