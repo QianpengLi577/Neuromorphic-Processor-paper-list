@@ -9,6 +9,7 @@ My name is Qianpeng Li, a master in Institute of Automation, Chinese Academy of 
 - [Event Driven](#event-driven)
 - [Interesting Methods](#interesting-methods)
 - [The meeting was not held](#the-meeting-was-not-held)
+- [Mapping Methods](#mapping-methods)
 - [学位论文](#学位论文)
 
 ## Time Driven
@@ -285,6 +286,26 @@ I will share some wonderful design such as TrueNorth, Loihi, Darwin and soon on
   - **COSA: Co-Operative Systolic Arrays for Multi-head Attention Mechanism in Neural Network using Hybrid Data Reuse and Fusion Methodologies**
 
   - **HexaMesh: Scaling to Hundreds of Chiplets with an Optimized Chiplet Arrangement**
+
+## Mapping Methods
+
+- **A Design Flow for Mapping Spiking Neural Networks to Many-Core Neuromorphic Hardware**
+
+- **Approaching the mapping limit with closed-loop mapping strategy for deploying neural networks on neuromorphic hardware**
+
+- **DFSynthesizer: Dataflow-based Synthesis of Spiking Neural Networks to Neuromorphic Hardware**
+
+- **Mapping Spiking Neural Networks to Neuromorphic Hardware**
+
+- **NeuProMa: A Toolchain for Mapping Large-Scale Spiking Convolutional Neural Networks onto Neuromorphic Processor**
+
+- **Optimal Mapping of Spiking Neural Network to Neuromorphic Hardware for Edge-AI**
+
+- **EdgeMap: An Optimized Mapping Toolchain for Spiking Neural Network in Edge Computing**
+
+- **Mapping Very Large Scale Spiking Neuron Network to Neuromorphic Hardware**
+
+- **SNEAP: A Fast and Efficient Toolchain for Mapping Large-Scale Spiking Neural Network onto NoC-based Neuromorphic**
 
 ## 学位论文
 
