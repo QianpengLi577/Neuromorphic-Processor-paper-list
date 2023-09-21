@@ -190,7 +190,7 @@ I will share some wonderful design such as TrueNorth, Loihi, Darwin and soon on
 
 - **SpinalFlow: An Architecture and Dataflow Tailored for Spiking Neural Networks**
 
-## The meeting was not held
+## Conference
 
 - **DAC2022**
 
