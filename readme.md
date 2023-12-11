@@ -287,6 +287,11 @@ I will share some wonderful design such as TrueNorth, Loihi, Darwin and soon on
 
   - **HexaMesh: Scaling to Hundreds of Chiplets with an Optimized Chiplet Arrangement**
 
+- **ISSCC2024**
+  - **A 22nm 0.26nW/Synapse Spike-Driven Spiking Neural Network Processing Unit Using Time-Step-First Dataflow and Sparsity-Adaptive In-Memory Computing**
+
+  - **A 10,000 Inference/s Vision Chip with SPAD Imaging and Reconfigurable Intelligent Spike-Based Vision Processor**
+
 ## Mapping Methods
 
 - **A Design Flow for Mapping Spiking Neural Networks to Many-Core Neuromorphic Hardware**
