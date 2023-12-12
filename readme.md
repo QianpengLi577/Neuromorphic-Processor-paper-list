@@ -292,6 +292,17 @@ I will share some wonderful design such as TrueNorth, Loihi, Darwin and soon on
 
   - **A 10,000 Inference/s Vision Chip with SPAD Imaging and Reconfigurable Intelligent Spike-Based Vision Processor**
 
+- **DATE2024**
+  - **DiMO-Sparse: Differentiable Modeling and Optimization of Sparse CNN Dataflow and Hardware Architecture**
+
+  - **IndexMAC: A Custom RISC-V Vector Instruction to Accelerate Structured-Sparse Matrix Multiplications** [Link](https://arxiv.org/pdf/2311.07241.pdf)
+  
+  - **LLM-based Processor Verification: A Case Study for Neuromorphic Processor**
+
+  - **T-SNN: Tensor Train Decomposition for Efficient Spiking Neural Network Training**
+
+  - **On-FPGA Spiking Neural Networks for Integrated Near-Sensor ECG Analysis**
+
 ## Mapping Methods
 
 - **A Design Flow for Mapping Spiking Neural Networks to Many-Core Neuromorphic Hardware**
