@@ -323,6 +323,18 @@ I will share some wonderful design such as TrueNorth, Loihi, Darwin and soon on
 
 - **SNEAP: A Fast and Efficient Toolchain for Mapping Large-Scale Spiking Neural Network onto NoC-based Neuromorphic**
 
+- **Hierarchical Mapping of Large-scale Spiking Convolutional Neural Networks onto Resource-constrained Neuromorphic Processor**
+
+- **ESSA: Design of a Programmable Efficient Sparse Spiking Neural Network Accelerator**
+
+- **Compiling Spiking Neural Networks to Neuromorphic Hardware**
+
+- **Mapping Spiking Neural Networks onto a Manycore Neuromorphic Architecture**
+
+- **A Design Flow for Mapping Spiking Neural Networks to Many-Core Neuromorphic Hardware**
+
+- **Bridging the Gap Between Neural Networks and Neuromorphic Hardware with A Neural Network Compiler**
+
 ## 学位论文
 
 - **面向稀疏神经网络的片上系统设计与实现**
