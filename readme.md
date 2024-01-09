@@ -291,6 +291,8 @@ I will share some wonderful design such as TrueNorth, Loihi, Darwin and soon on
   - **A 22nm 0.26nW/Synapse Spike-Driven Spiking Neural Network Processing Unit Using Time-Step-First Dataflow and Sparsity-Adaptive In-Memory Computing**
 
   - **A 10,000 Inference/s Vision Chip with SPAD Imaging and Reconfigurable Intelligent Spike-Based Vision Processor**
+ 
+  - **C-Transformer: A 2.6-to-18.1μJ/Token Homogeneous DNN- Transformer/Spiking-Transformer Processor with Big-Little Network and Implicit Weight Generation for Large Language Models**
 
 - **DATE2024**
   - **DiMO-Sparse: Differentiable Modeling and Optimization of Sparse CNN Dataflow and Hardware Architecture**
