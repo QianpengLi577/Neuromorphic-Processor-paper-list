@@ -20,6 +20,7 @@ My name is Qianpeng Li, a master in Institute of Automation, Chinese Academy of 
 I will share some wonderful design such as TrueNorth, Loihi, Darwin and soon on
 - **Loihi: A Neuromorphic Manycore Processor with On-Chip Learning(Loihi)**
 - **Darwin: A neuromorphic hardware co-processor based on spiking neural networks(Darwin)**
+- **Darwin3: A large-scale neuromorphic chip with a Novel ISA and On-Chip Learning**
 - **Cambricon-X: An Accelerator for Sparse Neural Networks(Cambricon-X)**
 - **Towards artificial general intelligence with hybrid Tianjic chip architecture(TianJiC)**
 - **TrueNorth: Design and Tool Flow of a 65 mW 1 Million Neuron Programmable Neurosynaptic Chip(TrueNorth)**
