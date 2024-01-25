@@ -306,6 +306,9 @@ I will share some wonderful design such as TrueNorth, Loihi, Darwin and soon on
 
   - **On-FPGA Spiking Neural Networks for Integrated Near-Sensor ECG Analysis**
 
+- **HPCA2024**
+  - **STELLAR: Energy-Efficient and Low-Latency SNN Algorithm and Hardware Co-design with Spatiotemporal Computation**
+  
 ## Mapping Methods
 
 - **A Design Flow for Mapping Spiking Neural Networks to Many-Core Neuromorphic Hardware**
