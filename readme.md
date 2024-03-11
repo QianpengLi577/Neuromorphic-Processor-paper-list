@@ -309,6 +309,9 @@ I will share some wonderful design such as TrueNorth, Loihi, Darwin and soon on
 - **HPCA2024**
   - **STELLAR: Energy-Efficient and Low-Latency SNN Algorithm and Hardware Co-design with Spatiotemporal Computation**
   - **SPARK: Scalable and Precision-Aware Acceleration of Neural Networks via Efficient Encoding**
+
+- **DAC2024**
+  - **EOS: An Energy-Oriented Attack Framework for Spiking Neural Networks**
   
 ## Mapping Methods
 
