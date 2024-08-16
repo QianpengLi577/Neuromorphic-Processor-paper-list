@@ -316,6 +316,9 @@ I will share some wonderful design such as TrueNorth, Loihi, Darwin and soon on
   - **TraiNDSim: A Simulation Framework for Comprehensive Performance Evaluation of Neuromorphic Devices for On-Chip Training**
   - **Low-Complexity Algorithmic Test Generation for Neuromorphic Chips**
   - **Energy-efficient SNN Architecture using 3nm FinFET Multiport SRAM-based CIM with Online Learning**
+
+- **MICRO2024**
+  - **LoAS: Fully Temporal-Parallel Datatflow for Dual-Sparse Spiking Neural Networks**
   
 ## Mapping Methods
 
