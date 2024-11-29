@@ -319,6 +319,8 @@ I will share some wonderful design such as TrueNorth, Loihi, Darwin and soon on
 
 - **MICRO2024**
   - **LoAS: Fully Temporal-Parallel Datatflow for Dual-Sparse Spiking Neural Networks**
+  - **Rearchitecting a Neuromorphic Processor for Spike-Driven Brain-Computer Interfacing**
+  - **ActiveN: A Scalable and Flexibly-programmable Event-driven Neuromorphic Processor**
   
 ## Mapping Methods
 
