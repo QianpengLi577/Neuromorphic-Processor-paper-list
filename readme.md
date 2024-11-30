@@ -321,6 +321,9 @@ I will share some wonderful design such as TrueNorth, Loihi, Darwin and soon on
   - **LoAS: Fully Temporal-Parallel Datatflow for Dual-Sparse Spiking Neural Networks**
   - **Rearchitecting a Neuromorphic Processor for Spike-Driven Brain-Computer Interfacing**
   - **ActiveN: A Scalable and Flexibly-programmable Event-driven Neuromorphic Processor**
+
+- **ISSCC2025**
+  - **A 0.22mm2 161nW Noise-Robust Voice-Activity Detection Using Information-Aware Data Compression and Neuromorphic Spatial-Temporal Feature Extraction**
   
 ## Mapping Methods
 
