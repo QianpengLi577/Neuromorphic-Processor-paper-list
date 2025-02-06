@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/f2b8e524-a95c-4665-94d7-9d30b4e18437)# Neuromorphic-Processor-paper-list
-
 My name is Qianpeng Li, a master in Institute of Automation, Chinese Academy of Sciences. I am interesting in Neuromorphic Processor, spiking neural network accelerator and machine learning. In this repository I will share with you some useful, interesting and magic papers.I mainly share articles about neural chip, but also involve some DNN, CNN, Transformer and sparse neural network accelerators
 
 ## Table of Contents
