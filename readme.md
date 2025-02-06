@@ -1,4 +1,4 @@
-# Neuromorphic-Processor-paper-list
+![image](https://github.com/user-attachments/assets/f2b8e524-a95c-4665-94d7-9d30b4e18437)# Neuromorphic-Processor-paper-list
 
 My name is Qianpeng Li, a master in Institute of Automation, Chinese Academy of Sciences. I am interesting in Neuromorphic Processor, spiking neural network accelerator and machine learning. In this repository I will share with you some useful, interesting and magic papers.I mainly share articles about neural chip, but also involve some DNN, CNN, Transformer and sparse neural network accelerators
 
@@ -324,6 +324,16 @@ I will share some wonderful design such as TrueNorth, Loihi, Darwin and soon on
 
 - **ISSCC2025**
   - **A 0.22mm2 161nW Noise-Robust Voice-Activity Detection Using Information-Aware Data Compression and Neuromorphic Spatial-Temporal Feature Extraction**
+
+- **HPCA2025**
+  - **Prosperity: Accelerating Spiking Neural Networks via Product Sparsity**
+
+- **DATE2025**
+  - **Mapping Spiking Neural Networks to Heterogeneous Crossbar Architectures Using Integer Linear Programming**
+  - **SpikeStream: Accelerating Spiking Neural Network Inference on RISC-V Clusters with Sparse Computation Extensions**
+  - **ASNPC: An Automated Generation Framework for SNN and Neuromorphic Processor Co-Design**
+  - **Exploring the Sparsity-Quantization Interplay on a Novel Hybrid SNN Event-Driven Architecture**
+  - **TAIL: Exploiting Temporal Asynchronous Execution for Efficient Spiking Neural Networks with Inter-Layer Parallelism**
   
 ## Mapping Methods
 
